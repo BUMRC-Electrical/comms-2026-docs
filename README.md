@@ -37,7 +37,7 @@ Rover Receiver/Transmitter is a **Ubiquiti Bullet IP67**
     <td valign="middle">
         Ubiquiti Rocket M2
     </td>
-    <td valign="middle" width="80">
+    <td valign="middle" width="200">
         2.4GHz Radio Transmitter and Receiver
     </td>
     <td valign="middle" width="80">
