@@ -27,12 +27,12 @@ Rover Receiver/Transmitter is a **Ubiquiti Bullet IP67**
         Description
     </td>
     <td valign="middle">
-        Firmware Version
+        Firmware/Docs 
     </td>
   </tr>
   <tr>
     <td valign="middle">
-        Base Station
+        Base Station Transceiver
     </td>
     <td valign="middle">
         Ubiquiti Rocket M2
@@ -42,6 +42,48 @@ Rover Receiver/Transmitter is a **Ubiquiti Bullet IP67**
     </td>
     <td valign="middle">
         airOS V6.3.2.2
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+        Base Station Antenna
+    </td>
+    <td valign="middle">
+        am-2g15-120 or am-2g16-90
+    </td>
+    <td valign="middle">
+        2.4GHz Antenna
+    </td>
+    <td valign="middle">
+        Docs Here
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+        Rover Transceiver
+    </td>
+    <td valign="middle">
+        Ubiquiti Bullet IP67
+    </td>
+    <td valign="middle">
+        2.4GHz Radio Transmitter and Receiver
+    </td>
+    <td valign="middle">
+        airOS V8.7.19
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+        Rover Antenna
+    </td>
+    <td valign="middle">
+        ???
+    </td>
+    <td valign="middle">
+        5GHz / 2.4GHz Antenna
+    </td>
+    <td valign="middle">
+        Docs Here
     </td>
   </tr>
 </table>
