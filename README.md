@@ -9,12 +9,6 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
 
 ## Components
 
-Base Station is a **Ubiquiti Rocket M2**. Running 
-
-Rover Receiver/Transmitter is a **Ubiquiti Bullet IP67**
-
-
-## Administrators
 <table>
   <tr>
     <td valign="middle">
