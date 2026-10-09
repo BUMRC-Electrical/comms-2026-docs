@@ -38,7 +38,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         [<a href="/datasheets/rocket-m2/firmware">V6.3.22</a>] 
         [<a href="/datasheets/rocket-m2/rocket-m2-device.pdf">device info</a>] 
         [<a href="/datasheets/rocket-m2/rocket-m2-firmware.pdf">software guide</a>] 
-        [<a href="/datasheets/rocker-m2/rocker-m2-start.pdf">quick start</a>]
+        [<a href="/datasheets/rocker-m2/rocket-m2-start.pdf">quick start</a>]
     </td>
   </tr>
   <tr>
@@ -52,7 +52,8 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         airMAX 2.4 GHz, 15 dBi, 120º Sector Antenna
     </td>
     <td valign="middle">
-        [eStore](https://store.ui.com/us/en/products/am-2g15-120) | [datasheet](/datasheets/antenna/rocket-m2-antenna.pdf)
+        [<a href="https://store.ui.com/us/en/products/am-2g15-120">eStore</a>] 
+        [<a href="/datasheets/antenna/rocket-m2-antenna.pdf">datasheet</a>]
     </td>
   </tr>
   <tr>
@@ -66,7 +67,9 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         dual-band WiFi radio
     </td>
     <td valign="middle">
-        [airOS V8.7.19](/datasheets/bullet-ip67/firmware) | [device info / quick start](/datasheets/bullet-ip67/bullet-ip67-device.pdf) | [software docs](/datasheets/bullet-ip67/bullet-ip67-firmware.pdf)
+        [<a href="/datasheets/bullet-ip67/firmware">airOS V8.7.19</a>] 
+        [<a href="/datasheets/bullet-ip67/bullet-ip67-device.pdf">[device info / quick start</a>] 
+        [<a href="/datasheets/bullet-ip67/bullet-ip67-firmware.pdf">software docs</a>]
     </td>
   </tr>
   <tr>
@@ -80,7 +83,8 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         2.4 GHz, 8 dBi, integral N-female Antenna
     </td>
     <td valign="middle">
-        [eStore](https://www.l-com.com/wireless-antenna-24-ghz-8-dbi-omnidirectional-antenna-n-female-connector) | [datasheet](/datasheets/antenna/bullet-ip67-antenna.pdf)
+        [<a href="https://www.l-com.com/wireless-antenna-24-ghz-8-dbi-omnidirectional-antenna-n-female-connector">eStore</a>] 
+        [<a href="/datasheets/antenna/bullet-ip67-antenna.pdf">datasheet</a>]
     </td>
   </tr>
 </table>
