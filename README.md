@@ -35,7 +35,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         2.4GHz Radio Transmitter and Receiver
     </td>
     <td valign="middle">
-        [<a href="/datasheets/rocket-m2/firmware>V6.3.22</a>] 
+        [<a href="/datasheets/rocket-m2/firmware">V6.3.22</a>] 
         [<a href="/datasheets/rocket-m2/rocket-m2-device.pdf">device info</a>] 
         [<a href="/datasheets/rocket-m2/rocket-m2-firmware.pdf">software guide</a>] 
         [<a href="/datasheets/rocker-m2/rocker-m2-start.pdf">quick start</a>]
