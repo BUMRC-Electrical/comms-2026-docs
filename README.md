@@ -116,4 +116,14 @@ To connect to the system on a laptop, tether to either the bullet or the rocket 
 
 ## Field Reports
 
-1) On 11/06/2026 and 02/05/2026 Gidon and Logan, along with the 2025-2026 Comms Subteam, tested the comms system in two varing distances (0.31km and 1.65km). See the report <a href="/reports/Range Test Analysis Spring 2026.pdf">here</a>.
+<ol>
+    <li>
+        <ul>
+            <li>Dates: 11/06/2025 and 02/05/2026</li>
+            <li>Participants: Gidon G, Logan F, Stanley L, Jason N</li>
+            <li>Description: Tested comms system twice along the charles river, 0.31km and 1.65km.</li>
+            <li><a href="/reports/Range Test Analysis Spring 2026.pdf">Full Report</a></li>
+        </ul>
+    </li>
+</ol>
+
