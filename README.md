@@ -3,9 +3,9 @@ The 2026 Communications Subteam Documentation
 
 This repository contains all of the Communications Subteam information for the Fall 2026 - Spring 2027 year.
 
-If you are working on the system or need to view metrics, see <u>Network Information</u> below for information on how the system is configured.
+If you are working on the system or need to view metrics, see <b>Network Information</b> below for information on how the system is configured.
 
-To access the system components with their datasheets, current firmware versions, and guides all linked, see <u>Components</u> below.
+To access the system components with their datasheets, current firmware versions, and guides all linked, see <b>Components</b> below.
 
 ## Components
 
