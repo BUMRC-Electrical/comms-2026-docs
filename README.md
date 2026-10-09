@@ -44,7 +44,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
     </td>
     <td valign="middle>
         <a href="/datasheets/rocket-m2/firmware">airOS V6.3.22</a>
-    </a>
+    </td>
   </tr>
   <tr>
     <td valign="middle">
@@ -62,7 +62,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
     </td>
     <td valign="middle>
         N/A
-    </a>
+    </td>
   </tr>
   <tr>
     <td valign="middle">
@@ -81,7 +81,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
     </td>
     <td valign="middle>
         <a href="/datasheets/bullet-ip67/firmware">airOS V8.7.19</a>
-    </a>
+    </td>
   </tr>
   <tr>
     <td valign="middle">
@@ -99,6 +99,6 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
     </td>
     <td valign="middle>
         N/A
-    </a>
+    </td>
   </tr>
 </table>
