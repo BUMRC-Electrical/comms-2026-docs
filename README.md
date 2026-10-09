@@ -15,7 +15,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         System Component
     </td>
     <td valign="middle">
-        Manufacturer Component
+        Device Name
     </td>
     <td valign="middle">
         Description
