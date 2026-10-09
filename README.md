@@ -21,7 +21,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         Description
     </td>
     <td valign="middle">
-        Firmware/Docs 
+        Firmware/Datasheet 
     </td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         2.4GHz Radio Transmitter and Receiver
     </td>
     <td valign="middle">
-        airOS V6.3.2.2 | [device info](/datasheets/rocket-m2/rocket-m2-device.pdf) | [software info](/datasheets/rocket-m2-firmware.pdf) | [quick start guide](/datasheets/rocket-m2/rocket-m2-start.pdf)
+        [airOS V6.3.2.2](/datasheets/rocket-m2/firmware) | [device info](/datasheets/rocket-m2/rocket-m2-device.pdf) | [software info](/datasheets/rocket-m2-firmware.pdf) | [quick start](/datasheets/rocket-m2/rocket-m2-start.pdf)
     </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         airMAX 2.4 GHz, 15 dBi, 120º Sector Antenna
     </td>
     <td valign="middle">
-        eStore [Here](https://store.ui.com/us/en/products/am-2g15-120) | [Datasheet](/datasheets/antenna/rocket-m2-antenna.pdf)
+        [eStore](https://store.ui.com/us/en/products/am-2g15-120) | [datasheet](/datasheets/antenna/rocket-m2-antenna.pdf)
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         dual-band WiFi radio
     </td>
     <td valign="middle">
-        airOS V8.7.19 | [device info / quick start](/datasheets/bullet-ip67/bullet-ip67-device.pdf) | [software docs](/datasheets/bullet-ip67/bullet-ip67-firmware.pdf)
+        [airOS V8.7.19](/datasheets/bullet-ip67/firmware) | [device info / quick start](/datasheets/bullet-ip67/bullet-ip67-device.pdf) | [software docs](/datasheets/bullet-ip67/bullet-ip67-firmware.pdf)
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         2.4 GHz, 8 dBi, integral N-female Antenna
     </td>
     <td valign="middle">
-        eStore [Here](https://www.l-com.com/wireless-antenna-24-ghz-8-dbi-omnidirectional-antenna-n-female-connector) | [Datasheet](/datasheets/antenna/bullet-ip67-antenna.pdf)
+        [eStore](https://www.l-com.com/wireless-antenna-24-ghz-8-dbi-omnidirectional-antenna-n-female-connector) | [datasheet](/datasheets/antenna/bullet-ip67-antenna.pdf)
     </td>
   </tr>
 </table>
