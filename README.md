@@ -42,7 +42,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         <a href="/datasheets/rocket-m2/rocket-m2-firmware.pdf">software guide</a> <br> 
         <a href="/datasheets/rocket-m2/rocket-m2-start.pdf">quick start</a>
     </td>
-    <td valign="middle>
+    <td valign="middle">
         <a href="/datasheets/rocket-m2/firmware">airOS V6.3.22</a>
     </td>
   </tr>
@@ -60,7 +60,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         <a href="https://store.ui.com/us/en/products/am-2g15-120">eStore</a> <br>
         <a href="/datasheets/antenna/rocket-m2-antenna.pdf">datasheet</a>
     </td>
-    <td valign="middle>
+    <td valign="middle">
         N/A
     </td>
   </tr>
@@ -79,7 +79,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         <a href="/datasheets/bullet-ip67/bullet-ip67-firmware.pdf">software guide</a> <br>
         <a href="/datasheets/bullet-ip67/bullet-ip67-start.pdf">quick start</a>
     </td>
-    <td valign="middle>
+    <td valign="middle">
         <a href="/datasheets/bullet-ip67/firmware">airOS V8.7.19</a>
     </td>
   </tr>
@@ -97,7 +97,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         <a href="https://www.l-com.com/wireless-antenna-24-ghz-8-dbi-omnidirectional-antenna-n-female-connector">eStore</a> <br>
         <a href="/datasheets/antenna/bullet-ip67-antenna.pdf">datasheet</a>
     </td>
-    <td valign="middle>
+    <td valign="middle">
         N/A
     </td>
   </tr>
