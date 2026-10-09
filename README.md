@@ -1,11 +1,10 @@
-# comms-2026-docs
-The 2026 Communications Subteam Documentation
+# BUMRC 2026-2027 Communications Documentation
 
 This repository contains all of the Communications Subteam information for the Fall 2026 - Spring 2027 year.
 
-If you are working on the system or need to view metrics, see <a href="#Network-Information">Network-Information</a> below for information on how the system is configured.
-
-To access the system components with their datasheets, current firmware versions, and guides all linked, see <a href="#Components">Components</a> below.
+## Table of Contents
+1. [Components](#components) - Access the list of system components with datasheets and firmware versions
+2. [Network Information](#network-information) - Information on the current network setup and configuration, as well as info on connecting a laptop to the system
 
 ## Components
 
@@ -103,7 +102,7 @@ To access the system components with their datasheets, current firmware versions
   </tr>
 </table>
 
-## Network-Information
+## Network Information
 
 This file has the most up to date information on how the system is networked. It also includes the hostnames, passwords, and information on getting your laptop/pc connected to the system components.
 
