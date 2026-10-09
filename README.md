@@ -88,7 +88,7 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
         Rover Antenna
     </td>
     <td valign="middle">
-        Generic Antenna, but similar to L-com HyperGain HGV-2409U
+        <b>NOT SURE WHAT ANTENNA EXACTLY WE HAVE</b>, but seems similar to L-com HyperGain HGV-2409U
     </td>
     <td valign="middle">
         2.4 GHz, 8 dBi, integral N-female Antenna
