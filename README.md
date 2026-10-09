@@ -5,6 +5,7 @@ This repository contains all of the Communications Subteam information for the F
 ## Table of Contents
 1. [Components](#components) - Access the list of system components with datasheets and firmware versions
 2. [Network Information](#network-information) - Information on the current network setup and configuration, as well as info on connecting a laptop to the system
+3. [Field Reports](#field-reports) - View field reports from the comms system testing
 
 ## Components
 
@@ -112,3 +113,7 @@ This file has the most up to date information on how the system is networked. It
 4) Bullet (antenna) - 192.168.1.21
 
 To connect to the system on a laptop, tether to either the bullet or the rocket via ethernet, then configure your ethernet connection to be static using the above Subnet Mask and Gateway. I usually use 192.168.1.100 as the laptop static IPv4, but any not listed above should work. Then for preferred DNS, im not sure if it matters but if you need to set one I use google at 8.8.8.8.
+
+## Field Reports
+
+1) On 11/06/2026 and 02/05/2026 Gidon and Logan, along with the 2025-2026 Comms Subteam, tested the comms system in two varing distances (0.31km and 1.65km). See the report <a href="/reports/Range Test Analysis Spring 2026.pdf">here</a>.
