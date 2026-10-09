@@ -1,11 +1,11 @@
 # comms-2026-docs
-The 2026 Communications Subsystem Documentation
+The 2026 Communications Subteam Documentation
 
-This repository contains all of the information for the Fall 2026 - Spring 2027 BUMRC. This has information imported from the previous year, Spring 2026.
+This repository contains all of the Communications Subteam information for the Fall 2026 - Spring 2027 year.
 
-If you are working on the system or need to view metrics, see [network-info.md](/network-info.md) for information on how the system is configured.
+If you are working on the system or need to view metrics, see <ul>Network Information</ul> below for information on how the system is configured.
 
-The current firmware is located in the [/firmware](/firmware) folder in this repository for both the base station and rover equipment.
+To access the system components with their datasheets, current firmware versions, and guides all linked, see <ul>Components</ul> below.
 
 ## Components
 
@@ -102,3 +102,14 @@ The current firmware is located in the [/firmware](/firmware) folder in this rep
     </td>
   </tr>
 </table>
+
+## Network Information
+
+This file has the most up to date information on how the system is networked. It also includes the hostnames, passwords, and information on getting your laptop/pc connected to t>
+
+1) Subnet Mask - 255.255.255.0
+2) Gateway - 192.168.1.1
+3) Rocket (base station) - 192.168.1.20
+4) Bullet (antenna) - 192.168.1.21
+
+To connect to the system on a laptop, tether to either the bullet or the rocket via ethernet, then configure your ethernet connection to be static using the above Subnet Mask an>
